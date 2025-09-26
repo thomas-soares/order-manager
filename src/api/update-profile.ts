@@ -1,5 +1,3 @@
-import { api } from "@/lib/axios";
-
 interface UpdateProfileBody {
   name: string;
   description: string | null;
